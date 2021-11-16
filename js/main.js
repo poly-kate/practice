@@ -1,11 +1,11 @@
-import {RectangleCenterMethod} from './rectangle-center-method.js';
+//import {RectangleCenterMethod} from './rectangle-center-method.js';
 import {RectangleLeftMethod} from "./rectangle-left-method.js";
 import {RectangleRightMethod} from "./rectangle-right-method.js";
 import {TrapezeMethod} from "./trapeze-method.js";
-import {SimpsonMethod} from "./simpson-method.js";
+//import {SimpsonMethod} from "./simpson-method.js";
 import {GaussianMethod} from "./gaussian-method.js";
-import {MonteCarloMethod} from './monte-carlo-method.js';
-import {GeometricalMonteСarloMethod} from './geometrical-monte-carlo-method.js';
+//import {MonteCarloMethod} from './monte-carlo-method.js';
+//import {GeometricalMonteСarloMethod} from './geometrical-monte-carlo-method.js';
 import {IntegrationChart} from './integration-chart.js';
 import {ResultTable} from './result-table.js';
 
