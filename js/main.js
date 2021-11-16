@@ -26,14 +26,14 @@ form.addEventListener('submit', (e) => {
 
 const processForm = ({func, a, b, n}) => {
     const methods = [
-        new RectangleCenterMethod(),
+        //new RectangleCenterMethod(),
         new RectangleLeftMethod(),
         new RectangleRightMethod(),
         new TrapezeMethod(),
-        new SimpsonMethod(),
+        //new SimpsonMethod(),
         new GaussianMethod(),
-        new MonteCarloMethod(),
-        new GeometricalMonteСarloMethod()
+       // new MonteCarloMethod(),
+        //new GeometricalMonteСarloMethod()
     ];
 
     resultTable.render(
