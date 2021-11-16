@@ -3,7 +3,7 @@ import {IntegrationMethod} from "./integration-method.js";
 class RectangleLeftMethod extends IntegrationMethod {
     constructor() {
         super();
-        this.name = 'Метод левых треугольников';
+        this.name = 'Метод левых прямоугольников';
     }
 
     integrate(func, a, b, n) {
